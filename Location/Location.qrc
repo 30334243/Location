@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="Location">
+    <file>sound/1.wav</file>
+    <file>sound/2.wav</file>
+    <file>sound/3.wav</file>
+    <file>sound/4.wav</file>
+    <file>sound/5.wav</file>
+    <file>sound/6.wav</file>
+    <file>sound/7.wav</file>
+    <file>sound/8.wav</file>
+    <file>sound/9.wav</file>
+    <file>sound/10.wav</file>
+  </qresource>
+  <qresource prefix="Location">
+    <file>Images/Apply.png</file>
+  </qresource>
+</RCC>
