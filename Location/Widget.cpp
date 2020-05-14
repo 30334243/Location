@@ -3,7 +3,7 @@
 #include "widget.h"
 #include "ui_widget.h"
 
-#include <Random.hpp>
+#include "../Random/Random.hpp"
 
 Widget::Widget(QWidget* parent, const int& w, const int& h) :
 	QWidget(parent),

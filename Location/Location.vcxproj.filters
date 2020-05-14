@@ -34,9 +34,6 @@
     <ClCompile Include="Widget.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\classes\Header.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Wall.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -44,6 +41,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Rfid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Header\Header.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -76,5 +76,10 @@
     <QtRcc Include="Location.qrc">
       <Filter>Resource Files</Filter>
     </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Header\Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
